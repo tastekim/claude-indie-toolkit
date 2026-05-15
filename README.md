@@ -4,9 +4,23 @@
 
 A production-ready Claude Code toolkit for solo founders. Built around one belief: **most indie products fail at validation and positioning, not at code.**
 
-🛒 **[Get the full toolkit on Gumroad — $19](https://tastekim.gumroad.com/l/claude-indie-toolkit)**
+🛒 **[Get the full toolkit on Gumroad — $19 ($14 with code `LAUNCH`)](https://tastekim.gumroad.com/l/claude-indie-toolkit)**
 
 [![Cover](https://i.imgur.com/RBVJ1kL.png)](https://tastekim.gumroad.com/l/claude-indie-toolkit)
+
+---
+
+## 🎯 Three products, one toolkit family
+
+The Indie Hacker Toolkit is the flagship. If you need just the parts, two focused mini-packs exist:
+
+| Product | Price (LAUNCH) | For |
+|---|---|---|
+| **[Claude Code Indie Hacker Toolkit](https://tastekim.gumroad.com/l/claude-indie-toolkit)** | $19 ($14) | Solo founders building & shipping side projects end-to-end |
+| **[Claude Code Cold Email Pack](https://tastekim.gumroad.com/l/cold-email-pack)** | $9 ($6) | Anyone doing B2B outreach, SDR, fundraising, partnerships |
+| **[MVP Spec Templates for Claude Code](https://tastekim.gumroad.com/l/mvp-spec-templates)** | $14 ($10) | Founders who keep starting MVPs that take 6 months instead of 4 weeks |
+
+**Each `LAUNCH` code is valid only for the first 72 hours of launch (until midnight, May 18, 2026).** After that, full price.
 
 ---
 
@@ -19,6 +33,7 @@ A production-ready Claude Code toolkit for solo founders. Built around one belie
 | **2 commands** | `/validate-idea`, `/launch-checklist` |
 | **1 guardrail hook** | `scope-creep-guard` — blocks Claude from writing files outside your MVP spec |
 | **Docs** | End-to-end workflow guide, install instructions, **🇰🇷 한국어 가이드**, examples |
+| **Blog series** | [Why I built this](./blog/why-i-built-this.md) · [5-pillar validation framework](./blog/the-5-pillar-idea-validation-framework.md) · [Agents that refuse](./blog/agents-that-refuse.md) |
 
 Every agent has explicit **kill criteria** and **"refuse to" rules**. They're designed to **tell you NO** before you build the wrong thing.
 
@@ -28,7 +43,7 @@ Every agent has explicit **kill criteria** and **"refuse to" rules**. They're de
 
 This repo ships with **one full agent** as a free preview: `idea-validator`.
 
-Try it. If it pushes back on your half-baked idea the way a senior co-founder would, the full toolkit is yours for $19.
+Try it. If it pushes back on your half-baked idea the way a senior co-founder would, the full toolkit is yours for $19 (or $14 with code `LAUNCH` during launch week).
 
 ```bash
 # Install the preview agent
@@ -84,9 +99,9 @@ The full case study walks through every agent's output along the way.
 | `idea-validator` agent | ✅ | ✅ |
 | `landing-page-architect` agent | — | ✅ |
 | `pricing-strategist` agent | — | ✅ |
-| `cold-outreach-writer` agent | — | ✅ |
+| `cold-outreach-writer` agent | — | ✅ (also in [Cold Email Pack](https://tastekim.gumroad.com/l/cold-email-pack)) |
 | `launch-day-orchestrator` agent | — | ✅ |
-| `mvp-spec-writer` skill | — | ✅ |
+| `mvp-spec-writer` skill | — | ✅ (also in [MVP Spec Templates](https://tastekim.gumroad.com/l/mvp-spec-templates)) |
 | `competitor-deep-dive` skill | — | ✅ |
 | `revenue-modeler` skill | — | ✅ |
 | `/validate-idea` command | — | ✅ |
@@ -94,12 +109,14 @@ The full case study walks through every agent's output along the way.
 | `scope-creep-guard` hook | — | ✅ |
 | End-to-end workflow guide | — | ✅ |
 | 한국어 가이드 (Korean adaptation) | — | ✅ |
+| 12 cold email templates | — | (in Cold Email Pack) |
+| 5 MVP-SPEC templates (SaaS / Extension / AI / Marketplace / Newsletter) | — | (in MVP Spec Templates) |
 | Sample outputs and examples | partial | ✅ |
 | Commercial license | — | ✅ |
 | Lifetime updates | — | ✅ |
 | 30-day refund | — | ✅ |
 
-**[Get the full toolkit — $19, one-time, no subscription](https://tastekim.gumroad.com/l/claude-indie-toolkit)**
+**[Get the full toolkit — $19 (`LAUNCH` → $14, ends May 18, 2026)](https://tastekim.gumroad.com/l/claude-indie-toolkit)**
 
 ---
 
